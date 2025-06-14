@@ -1,0 +1,15 @@
+div {
+    font-family: 'Courier New', Courier, monospace;
+    color: #f1a595;
+}
+
+body {
+    background-color: #971f06;
+}
+
+a:link, 
+a:visited,
+a:hover,
+a:active {
+    color: #f1a595;
+}
